@@ -1,0 +1,62 @@
+#h1{
+    color: #ed0534 ; background-color: #002040 ; font-family: cursive ; text-align: center
+    
+    
+    
+}
+#h3{
+    color: #00d3cb;
+    font-family: cursive; 
+    padding: 25px ;
+    background-color: #580676 ;
+border-style: outset;
+    border-bottom-color: #0e0077;
+    border-left-color: #ed0534;
+    border-bottom-width: 20px ;
+    border-left-width: 20px ;
+border-top-right-radius: 290px;
+
+}
+ul li {
+    
+    overflow: hidden ;
+    width: 100px;
+    background-color: #002040;
+    list-style: none ;
+   border-width: 10px ;
+    padding: 20px;
+    margin-left: 5px;
+    border-top-left-radius: 25px ; border-bottom-right-radius: 25px;
+    float: left;
+}
+a {
+    color: #ed0534 ; text-decoration: none ; font-size: 20px
+}
+a:hover{
+    color: chartreuse
+}
+h4 {
+    text-align: center; background-color: #ed0534 ; margin: 90px ; padding: 15px ; font-family: sans-serif ; border-style: solid; border-radius: 30px ; border-width: 3px ; 
+}
+img {
+  
+    position: relative ;
+    left: 1000px ; bottom: 350px ; 
+    border-bottom-style: double ; border-bottom-width: 10px ; border-bottom-color: #00d3cb ;border-radius: 250px;
+}
+h2{
+   text-align: center; background-color: #ed0534; font-family: sans-serif ;position: relative;bottom: 300px;border-style: double;border-radius: 10000px;
+    font-family: cursive
+    
+    
+}
+p{
+    background-color: aqua;padding: 25px;margin: 0px; float: left; position: relative;
+bottom: 270px;border-style: inherit;font-family: cursive;
+    
+    
+    
+}
+span {
+    position: relative;top: 5px;padding: 5px;color: #002040;background-color: #ed0534;font-family: cursive
+}
